@@ -1,2 +1,3 @@
 Tecla de atalhos da operação do ficheiro ps
-Tecla de atalhos da operação de edição do ps
+Tecla de atalhos da operação de edição do os
+Tecla de atalhos comuns do CAD
